@@ -1,0 +1,19 @@
+{
+  "name": "network",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "bencode": "^2.0.1",
+    "big-integer": "^1.6.48",
+    "crypto": "^1.0.1",
+    "node-gyp": "^7.1.2",
+    "nodemon": "^2.0.7",
+    "rebuild": "^0.1.2"
+  }
+}
